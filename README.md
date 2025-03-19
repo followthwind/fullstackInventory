@@ -47,7 +47,7 @@ cd fullstackInventory
    ```
 4. Jalankan server backend:
    ```bash
-   npm start
+   node index.js
    ```
 
 ### 3. Setup Frontend
@@ -61,7 +61,7 @@ cd fullstackInventory
    ```
 3. Jalankan aplikasi React:
    ```bash
-   npm start
+   npm run dev
    ```
 
 Aplikasi akan berjalan di `http://localhost:5173/` dan backend di `http://localhost:5000/`
