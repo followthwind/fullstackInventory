@@ -1,5 +1,7 @@
 # fullstackInventory
+
 Sebuah aplikasi manajemen inventaris berbasis web yang memungkinkan admin untuk menambah, mengedit, dan menghapus barang di dalam sistem. Aplikasi ini memiliki fitur pencarian berdasarkan nama dan ID barang.
+
 ![image](https://github.com/user-attachments/assets/1b95483d-ada6-41b7-9f9c-246943a58f71)
 
 
