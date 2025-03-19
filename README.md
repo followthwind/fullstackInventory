@@ -16,7 +16,7 @@ Sebuah aplikasi manajemen inventaris berbasis web yang memungkinkan admin untuk 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MySQL (menggunakan Sequelize ORM)
+- **Database**: postgreSQL (menggunakan Sequelize ORM)
 - **Autentikasi**: JWT (JSON Web Token)
 
 ## 🚀 Instalasi dan Menjalankan Proyek
