@@ -85,6 +85,4 @@ Aplikasi akan berjalan di `http://localhost:3000/` dan backend di `http://localh
 ## ✨ Kontributor
 - [ozang](https://github.com/followthwind)
 
-## 📜 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan!
 
