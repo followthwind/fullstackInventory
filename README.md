@@ -24,7 +24,7 @@ Sebuah aplikasi manajemen inventaris berbasis web yang memungkinkan admin untuk 
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/followthwind/fullstackInventory.git
-cd repository-name
+cd fullstackInventory
 ```
 
 ### 2. Setup Backend
