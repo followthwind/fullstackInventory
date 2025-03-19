@@ -64,7 +64,7 @@ cd fullstackInventory
    npm start
    ```
 
-Aplikasi akan berjalan di `http://localhost:3000/` dan backend di `http://localhost:5000/`
+Aplikasi akan berjalan di `http://localhost:5173/` dan backend di `http://localhost:5000/`
 
 ## 📚 API Endpoint
 ### **Authentication**
