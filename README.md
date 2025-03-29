@@ -5,20 +5,20 @@ Sebuah aplikasi manajemen inventaris berbasis web yang memungkinkan admin untuk 
 ![image](https://github.com/user-attachments/assets/1b95483d-ada6-41b7-9f9c-246943a58f71)
 
 
-## 📌 Fitur Utama
+## Fitur Utama
 - **Autentikasi pengguna** (login & token JWT)
 - **Role-based access control** (hanya admin yang dapat menambah, mengedit, dan menghapus barang)
 - **Menampilkan daftar inventaris**
 - **Pencarian barang berdasarkan nama & ID** secara real-time
 - **Menambah, mengedit, dan menghapus barang** (khusus admin)
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: postgreSQL (menggunakan Sequelize ORM)
 - **Autentikasi**: JWT (JSON Web Token)
 
-## 🚀 Instalasi dan Menjalankan Proyek
+##  Instalasi dan Menjalankan Proyek
 
 ### 1. Clone Repository
 ```bash
@@ -65,7 +65,7 @@ cd fullstackInventory
 
 Aplikasi akan berjalan di `http://localhost:5173/` dan backend di `http://localhost:5000/`
 
-## 📚 API Endpoint
+##  API Endpoint
 ### **Authentication**
 - `POST /login` - Login pengguna dan mendapatkan token JWT
 
@@ -75,13 +75,13 @@ Aplikasi akan berjalan di `http://localhost:5173/` dan backend di `http://localh
 - `PUT /inventory/:id` - Mengedit barang (hanya admin)
 - `DELETE /inventory/:id` - Menghapus barang (hanya admin)
 
-## 🔒 Role & Akses
+##  Role & Akses
 | Role  | Akses |
 |--------|-------|
 | **Admin** | Tambah, Edit, Hapus, Lihat |
 | **Staff** | Hanya Lihat |
 
-## ✨ Kontributor
+##  Kontributor
 - [ozang](https://github.com/followthwind)
 
 
