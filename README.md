@@ -82,6 +82,6 @@ Aplikasi akan berjalan di `http://localhost:5173/` dan backend di `http://localh
 | **Staff** | Hanya Lihat |
 
 ##  Kontributor
-- [ozang](https://github.com/followthwind)
+- [Fauzan Zidny](https://github.com/followthwind)
 
 
